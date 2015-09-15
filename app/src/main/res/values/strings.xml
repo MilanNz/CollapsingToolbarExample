@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Collapsing Toolbar Layout Test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+  <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Quisque tincidunt leo vitae quam posuere mattis. Etiam egestas velit sit amet nisi viverra, et auctor ipsum ornare.
+      Etiam pharetra, metus feugiat porttitor dapibus, est magna accumsan odio, sed tincidunt sapien tellus id sapien.
+      Nulla non tincidunt massa. Curabitur tincidunt blandit consequat. Integer condimentum nunc a tempus viverra.
+      Cras commodo velit elit, sit amet lobortis nisl accumsan a.</string>
+        <string name="checkin">Checkin</string>
+        <string name="menu_settings">Settings</string>
+</resources>
